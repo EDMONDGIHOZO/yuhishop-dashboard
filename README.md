@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# YUHI - an e-commerce application - for everyone
 
 This project is made using react Js
 
